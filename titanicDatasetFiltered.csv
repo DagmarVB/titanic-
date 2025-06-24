@@ -1,0 +1,315 @@
+,PassengerId,Last Name,First Name,Sex,Age,SibSp,Parch,Pclass,Ticket,Fare,Embarked,AgeCat,Survived
+2,470,Baclini, Miss. Helene Barbara,female,0.75,2,1,3,2666,19.2583,C,<16,1
+3,645,Baclini, Miss. Eugenie,female,0.75,2,1,3,2666,19.2583,C,<16,1
+8,173,Johnson, Miss. Eleanor Ileen,female,1.0,1,1,3,347742,11.1333,S,<16,1
+10,382,Nakid, Miss. Maria (Mary),female,1.0,0,2,3,2653,15.7417,C,<16,1
+16,120,Andersson, Miss. Ellis Anna Maria,female,2.0,4,2,3,347082,31.275,S,<16,0
+17,206,Strom, Miss. Telma Matilda,female,2.0,0,1,3,347054,10.4625,S,<16,0
+18,298,Allison, Miss. Helen Loraine,female,2.0,1,2,1,113781,151.55,S,<16,0
+20,480,Hirvonen, Miss. Hildur E,female,2.0,0,1,3,3101298,12.2875,S,<16,1
+21,531,Quick, Miss. Phyllis May,female,2.0,1,1,2,26360,26.0,S,<16,1
+22,643,Skoog, Miss. Margit Elizabeth,female,2.0,3,2,3,347088,27.9,S,<16,0
+24,44,Laroche, Miss. Simonne Marie Anne Andree,female,3.0,1,2,2,SC/Paris 2123,41.5792,C,<16,1
+28,375,Palsson, Miss. Stina Viola,female,3.0,3,1,3,349909,21.075,S,<16,0
+30,11,Sandstrom, Miss. Marguerite Rut,female,4.0,1,1,3,PP 9549,16.7,S,<16,1
+33,185,Kink-Heilmann, Miss. Luise Gretchen,female,4.0,0,2,3,315153,22.025,S,<16,1
+35,619,Becker, Miss. Marion Louise,female,4.0,2,1,2,230136,39.0,S,<16,1
+36,692,Karun, Miss. Manca,female,4.0,0,1,3,349256,13.4167,C,<16,1
+37,751,Wells, Miss. Joan,female,4.0,1,1,2,29103,23.0,S,<16,1
+40,59,West, Miss. Constance Mirium,female,5.0,1,2,2,C.A. 34651,27.75,S,<16,1
+41,234,Asplund, Miss. Lillian Gertrud,female,5.0,4,2,3,347077,31.3875,S,<16,1
+42,449,Baclini, Miss. Marie Catherine,female,5.0,2,1,3,2666,19.2583,C,<16,1
+43,778,Emanuel, Miss. Virginia Ethel,female,5.0,0,0,3,364516,12.475,S,<16,1
+44,721,Harper, Miss. Annie Jessie Nina,female,6.0,0,1,2,248727,33.0,S,<16,1
+46,814,Andersson, Miss. Ebba Iris Alfrida,female,6.0,4,2,3,347082,31.275,S,<16,0
+49,536,Hart, Miss. Eva Miriam,female,7.0,0,2,2,F.C.C. 13529,26.25,S,<16,1
+50,25,Palsson, Miss. Torborg Danira,female,8.0,3,1,3,349909,21.075,S,<16,0
+51,238,Collyer, Miss. Marjorie Lottie,female,8.0,0,2,2,C.A. 31921,26.25,S,<16,1
+54,148,Ford, Miss. Robina Maggie Ruby,female,9.0,2,2,3,W./C. 6608,34.375,S,<16,0
+59,542,Andersson, Miss. Ingeborg Constanzia,female,9.0,4,2,3,347082,31.275,S,<16,0
+60,635,Skoog, Miss. Mabel,female,9.0,3,2,3,347088,27.9,S,<16,0
+61,853,Boulos, Miss. Nourelain,female,9.0,1,1,3,2678,15.2458,C,<16,0
+62,420,Van Impe, Miss. Catharina,female,10.0,0,2,3,345773,24.15,S,<16,0
+65,543,Andersson, Miss. Sigrid Elisabeth,female,11.0,4,2,3,347082,31.275,S,<16,0
+69,447,Mellinger, Miss. Madeleine Violet,female,13.0,0,1,2,250644,19.5,S,<16,1
+70,781,Ayoub, Miss. Banoura,female,13.0,0,0,3,2687,7.2292,C,<16,1
+71,10,Nasser, Mrs. Nicholas (Adele Achem),female,14.0,1,0,2,237736,30.0708,C,<16,1
+72,15,Vestrom, Miss. Hulda Amanda Adolfina,female,14.0,0,0,3,350406,7.8542,S,<16,0
+73,40,Nicola-Yarred, Miss. Jamila,female,14.0,1,0,3,2651,11.2417,C,<16,1
+74,436,Carter, Miss. Lucile Polk,female,14.0,1,2,1,113760,120.0,S,<16,1
+77,112,Zabour, Miss. Hileni,female,14.5,1,0,3,2665,14.4542,C,<16,0
+78,23,McGowan, Miss. Anna Annie,female,15.0,0,0,3,330923,8.0292,Q,<16,1
+80,690,Madill, Miss. Georgette Alexandra,female,15.0,0,1,1,24160,211.3375,S,<16,1
+81,831,Yasbeck, Mrs. Antoni (Selini Alexander),female,15.0,1,0,3,2659,14.4542,C,<16,1
+82,876,Najib, Miss. Adele Kiamie Jane,female,15.0,0,0,3,2667,7.225,C,<16,1
+83,72,Goodwin, Miss. Lillian Amy,female,16.0,5,2,3,CA 2144,46.9,S,16-35,0
+86,157,Gilnagh, Miss. Katherine Katie,female,16.0,0,0,3,35851,7.7333,Q,16-35,1
+87,209,Carr, Miss. Helen Ellen,female,16.0,0,0,3,367231,7.75,Q,16-35,1
+91,330,Hippach, Miss. Jean Gertrude,female,16.0,0,1,1,111361,57.9792,C,16-35,1
+93,505,Maioni, Miss. Roberta,female,16.0,0,0,1,110152,86.5,S,16-35,1
+99,854,Lines, Miss. Mary Conover,female,16.0,0,1,1,PC 17592,39.4,S,16-35,1
+100,69,Andersson, Miss. Erna Alexandra,female,17.0,4,2,3,3101281,7.925,S,16-35,1
+101,85,Ilett, Miss. Bertha,female,17.0,0,0,2,SO/C 14885,10.5,S,16-35,1
+102,115,Attalah, Miss. Malake,female,17.0,0,0,3,2627,14.4583,C,16-35,0
+104,308,Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo),female,17.0,1,0,1,PC 17758,108.9,C,16-35,1
+105,390,Lehmann, Miss. Bertha,female,17.0,0,0,2,SC 1748,12.0,C,16-35,1
+111,782,Dick, Mrs. Albert Adrian (Vera Gillespie),female,17.0,1,0,1,17474,57.0,S,16-35,1
+113,39,Vander Planke, Miss. Augusta Maria,female,18.0,2,0,3,345764,18.0,S,16-35,0
+114,50,Arnold-Franchi, Mrs. Josef (Josefine Franchi),female,18.0,1,0,3,349237,17.8,S,16-35,0
+119,312,Ryerson, Miss. Emily Borie,female,18.0,2,2,1,PC 17608,262.375,C,16-35,1
+122,418,Silven, Miss. Lyyli Karoliina,female,18.0,0,2,2,250652,13.0,S,16-35,1
+125,586,Taussig, Miss. Ruth,female,18.0,0,2,1,110413,79.65,S,16-35,1
+126,652,Doling, Miss. Elsie,female,18.0,0,1,2,231919,23.0,S,16-35,1
+127,655,Hegarty, Miss. Hanora Nora,female,18.0,0,0,3,365226,6.75,Q,16-35,0
+129,678,Turja, Miss. Anna Sofia,female,18.0,0,0,3,4138,9.8417,S,16-35,1
+131,701,Astor, Mrs. John Jacob (Madeleine Talmadge Force),female,18.0,1,0,1,PC 17757,227.525,C,16-35,1
+132,703,Barbara, Miss. Saiide,female,18.0,0,1,3,2691,14.4542,C,16-35,0
+135,787,Sjoblom, Miss. Anna Sofia,female,18.0,0,0,3,3101265,7.4958,S,16-35,1
+136,808,Pettersson, Miss. Ellen Natalia,female,18.0,0,0,3,347087,7.775,S,16-35,0
+138,856,Aks, Mrs. Sam (Leah Rosen),female,18.0,0,1,3,392091,9.35,S,16-35,1
+140,45,Devaney, Miss. Margaret Delia,female,19.0,0,0,3,330958,7.8792,Q,16-35,1
+142,137,Newsom, Miss. Helen Monypeny,female,19.0,0,2,1,11752,26.2833,S,16-35,1
+146,193,Andersen-Jensen, Miss. Carla Christine Nielsine,female,19.0,1,0,3,350046,7.8542,S,16-35,1
+150,292,Bishop, Mrs. Dickinson H (Helen Walton),female,19.0,1,0,1,11967,91.0792,C,16-35,1
+154,428,Phillips, Miss. Kate Florence (Mrs Kate Louise Phillips Marshall),female,19.0,0,0,2,250655,26.0,S,16-35,1
+155,547,Beane, Mrs. Edward (Ethel Clarke),female,19.0,1,0,2,2908,26.0,S,16-35,1
+163,888,Graham, Miss. Margaret Edith,female,19.0,0,0,1,112053,30.0,S,16-35,1
+166,114,Jussila, Miss. Katriina,female,20.0,1,0,3,4136,9.825,S,16-35,0
+169,405,Oreskovic, Miss. Marija,female,20.0,0,0,3,315096,8.6625,S,16-35,0
+182,57,Rugg, Miss. Emily,female,21.0,0,0,2,C.A. 31026,10.5,S,16-35,1
+185,107,Salkjelsvik, Miss. Anna Kristine,female,21.0,0,0,3,343120,7.65,S,16-35,1
+190,403,Jussila, Miss. Mari Aina,female,21.0,1,0,3,4137,9.825,S,16-35,0
+193,437,Ford, Miss. Doolina Margaret Daisy,female,21.0,2,2,3,W./C. 6608,34.375,S,16-35,0
+196,502,Canavan, Miss. Mary,female,21.0,0,0,3,364846,7.75,Q,16-35,0
+199,628,Longley, Miss. Gretchen Fiske,female,21.0,0,0,1,13502,77.9583,S,16-35,1
+201,743,Ryerson, Miss. Susan Parker Suzette,female,21.0,2,2,1,PC 17608,262.375,C,16-35,1
+208,142,Nysten, Miss. Anna Sofia,female,22.0,0,0,3,347081,7.75,S,16-35,1
+209,152,Pears, Mrs. Thomas (Edith Wearne),female,22.0,1,0,1,113776,66.6,S,16-35,1
+214,290,Connolly, Miss. Kate,female,22.0,0,0,3,370373,7.75,Q,16-35,1
+216,324,Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh),female,22.0,1,1,2,248738,29.0,S,16-35,1
+217,357,Bowerman, Miss. Elsie Edith,female,22.0,0,1,1,113505,55.0,S,16-35,1
+219,377,Landergren, Miss. Aurora Adelia,female,22.0,0,0,3,C 7077,7.25,S,16-35,1
+221,475,Strandberg, Miss. Ida Sofia,female,22.0,0,0,3,7553,9.8375,S,16-35,0
+224,540,Frolicher, Miss. Hedwig Margaritha,female,22.0,0,2,1,13568,49.5,C,16-35,1
+226,555,Ohman, Miss. Velin,female,22.0,0,0,3,347085,7.775,S,16-35,1
+228,609,Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue),female,22.0,1,2,2,SC/Paris 2123,41.5792,C,16-35,1
+229,709,Cleaver, Miss. Alice,female,22.0,0,0,1,113781,151.55,S,16-35,1
+230,883,Dahlberg, Miss. Gerda Ulrika,female,22.0,0,0,3,7552,10.5167,S,16-35,0
+231,89,Fortune, Miss. Mabel Helen,female,23.0,3,2,1,19950,263.0,S,16-35,1
+235,394,Newell, Miss. Marjorie,female,23.0,1,0,1,35273,113.275,C,16-35,1
+237,474,Jerwan, Mrs. Amin S (Marie Marthe Thuillard),female,23.0,0,0,2,SC/AH Basle 541,13.7917,C,16-35,1
+239,650,Stanley, Miss. Amy Zillah Elsie,female,23.0,0,0,3,CA. 2314,7.55,S,16-35,1
+244,817,Heininen, Miss. Wendla Maria,female,23.0,0,0,3,STON/O2. 3101290,7.925,S,16-35,0
+251,143,Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck),female,24.0,1,0,3,STON/O2. 3101279,15.85,S,16-35,1
+252,200,Yrois, Miss. Henriette (Mrs Harbeck),female,24.0,0,0,2,248747,13.0,S,16-35,0
+255,248,Hamalainen, Mrs. William (Anna),female,24.0,0,2,2,250649,14.5,S,16-35,1
+256,294,Haas, Miss. Aloisia,female,24.0,0,0,3,349236,8.85,S,16-35,0
+258,311,Hays, Miss. Margaret Bechstein,female,24.0,0,0,1,11767,83.1583,C,16-35,1
+259,317,Kantor, Mrs. Sinai (Miriam Sternin),female,24.0,1,0,2,244367,26.0,S,16-35,1
+260,342,Fortune, Miss. Alice Elizabeth,female,24.0,3,2,1,19950,263.0,S,16-35,1
+261,346,Brown, Miss. Amelia Mildred,female,24.0,0,0,2,248733,13.0,S,16-35,1
+262,370,Aubart, Mme. Leontine Pauline,female,24.0,0,0,1,PC 17477,69.3,C,16-35,1
+263,395,Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson),female,24.0,0,2,3,PP 9549,16.7,S,16-35,1
+264,438,Richards, Mrs. Sidney (Emily Hocking),female,24.0,2,3,2,29106,18.75,S,16-35,1
+268,601,Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy),female,24.0,2,1,2,243847,27.0,S,16-35,1
+269,616,Herman, Miss. Alice,female,24.0,1,2,2,220845,65.0,S,16-35,1
+270,642,Sagesser, Mlle. Emma,female,24.0,0,0,1,PC 17477,69.3,C,16-35,1
+272,711,Mayne, Mlle. Berthe Antonine (Mrs de Villiers),female,24.0,0,0,1,PC 17482,49.5042,C,16-35,1
+275,859,Baclini, Mrs. Solomon (Latifa Qurban),female,24.0,0,3,3,2666,19.2583,C,16-35,1
+280,247,Lindahl, Miss. Agda Thorilda Viktoria,female,25.0,0,0,3,347071,7.775,S,16-35,0
+288,499,Allison, Mrs. Hudson J C (Bessie Waldo Daniels),female,25.0,1,2,1,113781,151.55,S,16-35,0
+289,581,Christy, Miss. Julie Rachel,female,25.0,1,1,2,237789,30.0,S,16-35,1
+295,730,Ilmakangas, Miss. Pieta Sofia,female,25.0,1,0,3,STON/O2. 3101271,7.925,S,16-35,0
+299,881,Shelley, Mrs. William (Imanita Parrish Hall),female,25.0,0,1,2,230433,26.0,S,16-35,1
+301,3,Heikkinen, Miss. Laina,female,26.0,0,0,3,STON/O2. 3101282,7.925,S,16-35,1
+307,291,Barber, Miss. Ellen Nellie,female,26.0,0,0,1,19877,78.85,S,16-35,1
+308,313,Lahtinen, Mrs. William (Anna Sylfven),female,26.0,1,1,2,250651,26.0,S,16-35,0
+309,316,Nilsson, Miss. Helmina Josefina,female,26.0,0,0,3,347470,7.8542,S,16-35,1
+312,618,Lobb, Mrs. William Arthur (Cordelia K Stanlick),female,26.0,1,0,3,A/5. 3336,16.1,S,16-35,0
+319,9,Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg),female,27.0,0,2,3,347742,11.1333,S,16-35,1
+320,42,Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott),female,27.0,1,0,2,11668,21.0,S,16-35,0
+322,217,Honkanen, Miss. Eliina,female,27.0,0,0,3,STON/O2. 3101283,7.925,S,16-35,1
+330,718,Troutt, Miss. Edwina Celia Winnie,female,27.0,0,0,2,34218,10.5,S,16-35,1
+334,824,Moor, Mrs. (Beila),female,27.0,0,1,3,392096,12.475,S,16-35,1
+335,867,Duran y More, Miss. Asuncion,female,27.0,1,0,2,SC/PARIS 2149,13.8583,C,16-35,1
+340,101,Petranec, Miss. Matilda,female,28.0,0,0,3,349245,7.8958,S,16-35,0
+349,400,Trout, Mrs. William H (Jessie L),female,28.0,0,0,2,240929,12.65,S,16-35,1
+351,424,Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren),female,28.0,1,1,3,347080,14.4,S,16-35,0
+352,427,Clarke, Mrs. Charles V (Ada Maria Winfield),female,28.0,1,0,2,2003,26.0,S,16-35,1
+354,444,Reynaldo, Ms. Encarnacion,female,28.0,0,0,2,230434,13.0,S,16-35,1
+357,636,Davis, Miss. Mary,female,28.0,0,0,2,237668,13.0,S,16-35,1
+360,875,Abelson, Mrs. Samuel (Hannah Wizosky),female,28.0,1,0,2,P/PP 3381,24.0,C,16-35,1
+364,54,Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson),female,29.0,1,0,2,2926,26.0,S,16-35,1
+365,67,Nye, Mrs. (Elizabeth Ramell),female,29.0,0,0,2,C.A. 29395,10.5,S,16-35,1
+369,134,Weisz, Mrs. Leopold (Mathilde Francoise Pede),female,29.0,1,0,2,228414,26.0,S,16-35,1
+372,252,Strom, Mrs. Wilhelm (Elna Matilda Persson),female,29.0,1,1,3,347054,10.4625,S,16-35,0
+373,256,Touma, Mrs. Darwis (Hanne Youssef Razi),female,29.0,0,2,3,2650,15.2458,C,16-35,1
+380,568,Palsson, Mrs. Nils (Alma Cornelia Berglund),female,29.0,0,4,3,349909,21.075,S,16-35,0
+382,731,Allen, Miss. Elisabeth Walton,female,29.0,0,0,1,24160,211.3375,S,16-35,1
+384,80,Dowdell, Miss. Elizabeth,female,30.0,0,0,3,364516,12.475,S,16-35,1
+391,258,Cherry, Miss. Gladys,female,30.0,0,0,1,110152,86.5,S,16-35,1
+394,310,Francatelli, Miss. Laura Mabel,female,30.0,0,0,1,PC 17485,56.9292,C,16-35,1
+395,323,Slayter, Miss. Hilda Mary,female,30.0,0,0,2,234818,12.35,Q,16-35,1
+400,521,Perreault, Miss. Anne,female,30.0,0,0,1,12749,93.5,S,16-35,1
+401,535,Cacic, Miss. Marija,female,30.0,0,0,3,315084,8.6625,S,16-35,0
+402,538,LeRoy, Miss. Bertha,female,30.0,0,0,1,PC 17761,106.425,C,16-35,1
+404,727,Renouf, Mrs. Peter Henry (Lillian Jefferys),female,30.0,3,0,2,31027,21.0,S,16-35,1
+405,748,Sinkkonen, Miss. Anna,female,30.0,0,0,2,250648,13.0,S,16-35,1
+407,800,Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert),female,30.0,1,1,3,345773,24.15,S,16-35,0
+408,843,Serepeca, Miss. Augusta,female,30.0,0,0,1,113798,31.0,C,16-35,1
+409,768,Mangan, Miss. Mary,female,30.5,0,0,3,364850,7.75,Q,16-35,0
+411,19,Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele),female,31.0,1,0,3,345763,18.0,S,16-35,0
+412,216,Newell, Miss. Madeleine,female,31.0,1,0,1,35273,113.275,C,16-35,1
+413,319,Wick, Miss. Mary Natalie,female,31.0,0,2,1,36928,164.8667,S,16-35,1
+414,329,Goldsmith, Mrs. Frank John (Emily Alice Brown),female,31.0,1,1,3,363291,20.525,S,16-35,1
+415,397,Olsson, Miss. Elina,female,31.0,0,0,3,350407,7.8542,S,16-35,0
+423,798,Osman, Mrs. Mara,female,31.0,0,0,3,349244,8.6833,S,16-35,1
+424,802,Collyer, Mrs. Harvey (Charlotte Annie Tate),female,31.0,1,1,2,C.A. 31921,26.25,S,16-35,1
+430,191,Pinsky, Mrs. (Rosa),female,32.0,0,0,2,234604,13.0,S,16-35,1
+432,219,Bazzani, Miss. Albina,female,32.0,0,0,1,11813,76.2917,C,16-35,1
+441,658,Bourke, Mrs. John (Catherine),female,32.0,1,1,3,364849,15.5,Q,16-35,0
+447,124,Webber, Miss. Susan,female,32.5,0,0,2,27267,13.0,S,16-35,1
+448,86,Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson),female,33.0,3,0,3,3101278,15.85,S,16-35,1
+453,413,Minahan, Miss. Daisy E,female,33.0,1,0,1,19928,90.0,Q,16-35,1
+454,473,West, Mrs. Edwy Arthur (Ada Mary Worth),female,33.0,1,2,2,C.A. 34651,27.75,S,16-35,1
+455,507,Quick, Mrs. Frederick Charles (Jane Richards),female,33.0,0,2,2,26360,26.0,S,16-35,1
+459,760,Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards),female,33.0,0,0,1,110152,86.5,S,16-35,1
+460,810,Chambers, Mrs. Norman Campbell (Bertha Griggs),female,33.0,1,0,1,113806,53.1,S,16-35,1
+464,99,Doling, Mrs. John T (Ada Julia Bone),female,34.0,0,1,2,231919,23.0,S,16-35,1
+468,417,Drew, Mrs. James Vivian (Lulu Thorne Christian),female,34.0,1,1,2,28220,32.5,S,16-35,1
+472,517,Lemore, Mrs. (Amelia Milley),female,34.0,0,0,2,C.A. 34260,10.5,S,16-35,1
+473,577,Garside, Miss. Ethel,female,34.0,0,0,2,243880,13.0,S,16-35,1
+479,4,Futrelle, Mrs. Jacques Heath (Lily May Peel),female,35.0,1,0,1,113803,53.1,S,16-35,1
+482,212,Cameron, Miss. Clear Annie,female,35.0,0,0,2,F.C.C. 13528,21.0,S,16-35,1
+483,231,Harris, Mrs. Henry Birkhardt (Irene Wallach),female,35.0,1,0,1,36973,83.475,S,16-35,1
+484,259,Ward, Miss. Anna,female,35.0,0,0,1,PC 17755,512.3292,C,16-35,1
+485,270,Bissette, Miss. Amelia,female,35.0,0,0,1,PC 17760,135.6333,S,16-35,1
+486,280,Abbott, Mrs. Stanton (Rosa Hunt),female,35.0,1,1,3,C.A. 2673,20.25,S,16-35,1
+488,384,Holverson, Mrs. Alexander Oskar (Mary Aline Towner),female,35.0,1,0,1,113789,52.0,S,16-35,1
+489,487,Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby),female,35.0,1,0,1,19943,90.0,S,16-35,1
+501,326,Young, Miss. Marie Grice,female,36.0,0,0,1,PC 17760,135.6333,C,36-55,1
+502,328,Ball, Mrs. (Ada E Hall),female,36.0,0,0,2,28551,13.0,S,36-55,1
+504,388,Buss, Miss. Kate,female,36.0,0,0,2,27849,13.0,S,36-55,1
+508,519,Angle, Mrs. William A (Florence Mary Agnes Hughes),female,36.0,1,0,2,226875,26.0,S,36-55,1
+509,541,Crosby, Miss. Harriet R,female,36.0,0,2,1,WE/P 5735,71.0,S,36-55,1
+510,560,de Messemaeker, Mrs. Guillaume Joseph (Emma),female,36.0,1,0,3,345572,17.4,S,36-55,1
+518,764,Carter, Mrs. William Ernest (Lucile Polk),female,36.0,1,2,1,113760,120.0,S,36-55,1
+524,504,Laitinen, Miss. Kristina Sofia,female,37.0,0,0,3,4135,9.5875,S,36-55,0
+526,2,Cumings, Mrs. John Bradley (Florence Briggs Thayer),female,38.0,1,0,1,PC 17599,71.2833,C,36-55,1
+527,26,Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson),female,38.0,1,5,3,347077,31.3875,S,36-55,1
+528,62,Icard, Miss. Amelie,female,38.0,0,0,1,113572,80.0,,36-55,1
+532,358,Funk, Miss. Annie Clemmer,female,38.0,0,0,2,237671,13.0,S,36-55,0
+535,717,Endres, Miss. Caroline Louise,female,38.0,0,0,1,PC 17757,227.525,C,36-55,1
+540,559,Taussig, Mrs. Emil (Tillie Mandelbaum),female,39.0,1,1,1,110413,79.65,S,36-55,1
+541,578,Silvey, Mrs. William Baird (Alice Munger),female,39.0,1,0,1,13507,55.9,S,36-55,1
+542,582,Thayer, Mrs. John Borland (Marian Longstreth Morris),female,39.0,1,1,1,17421,110.8833,C,36-55,1
+543,611,Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren),female,39.0,1,5,3,347082,31.275,S,36-55,0
+549,836,Compton, Miss. Sara Rebecca,female,39.0,1,1,1,PC 17756,83.1583,C,36-55,1
+550,886,Rice, Mrs. William (Margaret Norton),female,39.0,0,5,3,382652,29.125,Q,36-55,0
+552,41,Ahlin, Mrs. Johan (Johanna Persdotter Larsson),female,40.0,1,0,3,7546,9.475,S,36-55,0
+553,162,Watt, Mrs. James (Elizabeth Bessie Inglis Milne),female,40.0,0,0,2,C.A. 33595,15.75,S,36-55,1
+557,320,Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone),female,40.0,1,1,1,16966,134.5,C,36-55,1
+558,347,Smith, Miss. Marion Elsie,female,40.0,0,0,2,31418,13.0,S,36-55,1
+561,610,Shutes, Miss. Elizabeth W,female,40.0,0,0,1,PC 17582,153.4625,S,36-55,1
+563,671,Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford),female,40.0,1,1,2,29750,39.0,S,36-55,1
+566,255,Rosblom, Mrs. Viktor (Helena Wilhelmina),female,41.0,0,2,3,370129,20.2125,S,36-55,0
+567,273,Mellinger, Mrs. (Elizabeth Anne Maidment),female,41.0,0,1,2,250644,19.5,S,36-55,1
+568,338,Burns, Miss. Elizabeth Margaret,female,41.0,0,0,1,16966,134.5,C,36-55,1
+569,639,Panula, Mrs. Juha (Maria Emilia Ojala),female,41.0,0,5,3,3101295,39.6875,S,36-55,0
+578,381,Bidois, Miss. Rosalie,female,42.0,0,0,1,PC 17757,227.525,C,36-55,1
+579,433,Louch, Mrs. Charles Alexander (Alice Adelaide Slow),female,42.0,1,0,2,SC/AH 3085,26.0,S,36-55,1
+584,866,Bystrom, Mrs. (Karolina),female,42.0,0,0,2,236852,13.0,S,36-55,1
+587,679,Goodwin, Mrs. Frederick (Augusta Tyler),female,43.0,1,6,3,CA 2144,46.9,S,36-55,0
+588,780,Robert, Mrs. Edward Scott (Elisabeth Walton McMillan),female,43.0,0,1,1,24160,211.3375,S,36-55,1
+591,195,Brown, Mrs. James Joseph (Margaret Tobin),female,44.0,0,0,1,PC 17610,27.7208,C,36-55,1
+595,524,Hippach, Mrs. Louis Albert (Ida Sophia Fischer),female,44.0,0,1,1,111361,57.9792,C,36-55,1
+598,855,Carter, Mrs. Ernest Courtenay (Lilian Hughes),female,44.0,1,0,2,244252,26.0,S,36-55,0
+601,168,Skoog, Mrs. William (Anna Bernhardina Karlsson),female,45.0,1,4,3,347088,27.9,S,36-55,0
+603,277,Lindblom, Miss. Augusta Charlotta,female,45.0,0,0,3,347073,7.75,S,36-55,0
+606,363,Barbara, Mrs. (Catherine David),female,45.0,0,1,3,2691,14.4542,C,36-55,0
+607,441,Hart, Mrs. Benjamin (Esther Ada Bloomfield),female,45.0,1,1,2,F.C.C. 13529,26.25,S,36-55,1
+609,707,Kelly, Mrs. Florence Fannie,female,45.0,0,0,2,223596,13.5,S,36-55,1
+610,857,Wick, Mrs. George Dennick (Mary Hitchcock),female,45.0,1,1,1,36928,164.8667,S,36-55,1
+617,133,Robins, Mrs. Alexander A (Grace Charity Laury),female,47.0,1,0,3,A/5. 3337,14.5,S,36-55,0
+623,872,Beckwith, Mrs. Richard Leonard (Sallie Monypeny),female,47.0,1,1,1,11751,52.5542,S,36-55,1
+627,557,Duff Gordon, Lady. (Lucille Christiana Sutherland) (Mrs Morgan),female,48.0,1,0,1,11755,39.6,C,36-55,1
+630,737,Ford, Mrs. Edward (Margaret Ann Watson),female,48.0,1,3,3,W./C. 6608,34.375,S,36-55,0
+631,755,Herman, Mrs. Samuel (Jane Laver),female,48.0,1,2,2,220845,65.0,S,36-55,1
+633,863,Swift, Mrs. Frederick Joel (Margaret Welles Barron),female,48.0,0,0,1,17466,25.9292,S,36-55,1
+634,53,Harper, Mrs. Henry Sleeper (Myna Haxtun),female,49.0,1,0,1,PC 17572,76.7292,C,36-55,1
+639,797,Leader, Dr. Alice (Farnham),female,49.0,0,0,1,17465,25.9292,S,36-55,1
+640,178,Isham, Miss. Ann Elizabeth,female,50.0,0,0,1,PC 17595,28.7125,C,36-55,0
+641,260,Parrish, Mrs. (Lutie Davis),female,50.0,0,1,2,230433,26.0,S,36-55,1
+642,300,Baxter, Mrs. James (Helene DeLaudeniere Chaput),female,50.0,0,1,1,PC 17558,247.5208,C,36-55,1
+644,459,Toomey, Miss. Ellen,female,50.0,0,0,2,F.C.C. 13531,10.5,S,36-55,1
+646,527,Ridsdale, Miss. Lucy,female,50.0,0,0,2,W./C. 14258,10.5,S,36-55,1
+655,766,Hogeboom, Mrs. John C (Anna Andrews),female,51.0,1,0,1,13502,77.9583,S,36-55,1
+659,592,Stephenson, Mrs. Walter Bertram (Martha Eustis),female,52.0,1,0,1,36947,78.2667,C,36-55,1
+662,821,Hays, Mrs. Charles Melville (Clara Jennings Gregg),female,52.0,1,1,1,12749,93.5,S,36-55,1
+663,572,Appleton, Mrs. Edward Dale (Charlotte Lamson),female,53.0,2,0,1,11769,51.4792,S,36-55,1
+668,497,Eustis, Miss. Elizabeth Mussey,female,54.0,1,0,1,36947,78.2667,C,36-55,1
+669,514,Rothschild, Mrs. Martin (Elizabeth L. Barrett),female,54.0,1,0,1,PC 17603,59.4,C,36-55,1
+671,775,Hocking, Mrs. Elizabeth (Eliza Needs),female,54.0,1,3,2,29105,23.0,S,36-55,1
+672,16,Hewlett, Mrs. (Mary D Kingcome) ,female,55.0,0,0,2,248706,16.0,S,36-55,1
+678,880,Potter, Mrs. Thomas Jr (Lily Alexenia Wilson),female,56.0,0,1,1,11767,83.1583,C,>55,1
+680,773,Mack, Mrs. (Mary),female,57.0,0,0,2,S.O./P.P. 3,10.5,S,>55,0
+681,12,Bonnell, Miss. Elizabeth,female,58.0,0,0,1,113783,26.55,S,>55,1
+682,196,Lurette, Miss. Elise,female,58.0,0,0,1,PC 17569,146.5208,C,>55,1
+683,269,Graham, Mrs. William Thompson (Edith Junkins),female,58.0,0,1,1,PC 17582,153.4625,S,>55,1
+688,367,Warren, Mrs. Frank Manley (Anna Sophia Atkinson),female,60.0,1,0,1,110813,75.25,C,>55,1
+698,830,Stone, Mrs. George Nelson (Martha Evelyn),female,62.0,0,0,1,113572,80.0,,>55,1
+699,276,Andrews, Miss. Kornelia Theodosia,female,63.0,1,0,1,13502,77.9583,S,>55,1
+700,484,Turkula, Mrs. (Hedwig),female,63.0,0,0,3,4134,9.5875,S,>55,1
+716,20,Masselmani, Mrs. Fatima,female,,0,0,3,2649,7.225,C,U,1
+718,29,O'Dwyer, Miss. Ellen Nellie,female,,0,0,3,330959,7.8792,Q,U,1
+720,32,Spencer, Mrs. William Augustus (Marie Eugenie),female,,1,0,1,PC 17569,146.5208,C,U,1
+721,33,Glynn, Miss. Mary Agatha,female,,0,0,3,335677,7.75,Q,U,1
+726,48,O'Driscoll, Miss. Bridget,female,,0,0,3,14311,7.75,Q,U,1
+733,83,McDermott, Miss. Brigdet Delia,female,,0,0,3,330932,7.7875,Q,U,1
+738,110,Moran, Miss. Bertha,female,,1,0,3,371110,24.15,Q,U,1
+741,129,Peter, Miss. Anna,female,,1,1,3,2668,22.3583,C,U,1
+742,141,Boulos, Mrs. Joseph (Sultana),female,,0,2,3,2678,15.2458,C,U,0
+746,167,Chibnall, Mrs. (Edith Martha Bowerman),female,,0,1,1,113505,55.0,S,U,1
+749,181,Sage, Miss. Constance Gladys,female,,8,2,3,CA. 2343,69.55,S,U,0
+752,187,O'Brien, Mrs. Thomas (Johanna Hannah Godfrey),female,,1,0,3,370365,15.5,Q,U,1
+754,199,Madigan, Miss. Margaret Maggie,female,,0,0,3,370370,7.75,Q,U,1
+758,230,Lefebre, Miss. Mathilde,female,,3,1,3,4133,25.4667,S,U,0
+759,236,Harknett, Miss. Alice Phoebe,female,,0,0,3,W./C. 6609,7.55,S,U,0
+760,241,Zabour, Miss. Thamine,female,,1,0,3,2665,14.4542,C,U,0
+761,242,Murphy, Miss. Katherine Kate,female,,1,0,3,367230,15.5,Q,U,1
+763,257,Thorne, Mrs. Gertrude Maybelle,female,,0,0,1,PC 17585,79.2,C,U,1
+765,265,Henry, Miss. Delia,female,,0,0,3,382649,7.75,Q,U,0
+767,275,Healy, Miss. Hanora Nora,female,,0,0,3,370375,7.75,Q,U,1
+772,301,Kelly, Miss. Anna Katherine Annie Kate,female,,0,0,3,9234,7.75,Q,U,1
+774,304,Keane, Miss. Nora A,female,,0,0,2,226593,12.35,Q,U,1
+776,307,Fleming, Miss. Margaret,female,,0,0,1,17421,110.8833,C,U,1
+778,331,McCoy, Miss. Agnes,female,,2,0,3,367226,23.25,Q,U,1
+779,335,Frauenthal, Mrs. Henry William (Clara Heinsheimer),female,,1,0,1,PC 17611,133.65,S,U,1
+781,348,Davison, Mrs. Thomas Henry (Mary E Finck),female,,1,0,3,386525,16.1,S,U,1
+784,359,McGovern, Miss. Mary,female,,0,0,3,330931,7.8792,Q,U,1
+785,360,Mockler, Miss. Helen Mary Ellie,female,,0,0,3,330980,7.8792,Q,U,1
+787,368,Moussa, Mrs. (Mantoura Boulos),female,,0,0,3,2626,7.2292,C,U,1
+788,369,Jermyn, Miss. Annie,female,,0,0,3,14313,7.75,Q,U,1
+789,376,Meyer, Mrs. Edgar Joseph (Leila Saks),female,,1,0,1,PC 17604,82.1708,C,U,1
+792,410,Lefebre, Miss. Ida,female,,3,1,3,4133,25.4667,S,U,0
+796,416,Meek, Mrs. Thomas (Annie Louise Rowley),female,,0,0,3,343095,8.05,S,U,0
+800,432,Thorneycroft, Mrs. Percival (Florence Kate White),female,,1,0,3,376564,16.1,S,U,1
+804,458,Kenyon, Mrs. Frederick R (Marion),female,,1,0,1,17464,51.8625,S,U,1
+812,486,Lefebre, Miss. Jeannie,female,,3,1,3,4133,25.4667,S,U,0
+816,503,O'Sullivan, Miss. Bridget Mary,female,,0,0,3,330909,7.6292,Q,U,0
+824,534,Peter, Mrs. Catherine (Catherine Rizk),female,,0,2,3,2668,22.3583,C,U,1
+831,565,Meanwell, Miss. (Marion Ogden),female,,0,0,3,SOTON/O.Q. 392087,8.05,S,U,0
+833,574,Kelly, Miss. Mary,female,,0,0,3,14312,7.75,Q,U,1
+834,579,Caram, Mrs. Joseph (Maria Elias),female,,1,0,3,2689,14.4583,C,U,0
+837,594,Bourke, Miss. Mary,female,,0,2,3,364848,7.75,Q,U,0
+838,597,Leitch, Miss. Jessie Wills,female,,0,0,2,248727,33.0,S,U,1
+843,613,Murphy, Miss. Margaret Jane,female,,1,0,3,367230,15.5,Q,U,1
+851,654,O'Leary, Miss. Hanora Norah,female,,0,0,3,330919,7.8292,Q,U,1
+854,670,Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright),female,,1,0,1,19996,52.0,S,U,1
+856,681,Peters, Miss. Katie,female,,0,0,3,330935,8.1375,Q,U,0
+858,698,Mullens, Miss. Katherine Katie,female,,0,0,3,35852,7.7333,Q,U,1
+862,728,Mannion, Miss. Margareth,female,,0,0,3,36866,7.7375,Q,U,1
+875,793,Sage, Miss. Stella Anna,female,,8,2,3,CA. 2343,69.55,S,U,0
+885,850,Goldenberg, Mrs. Samuel L (Edwiga Grabowska),female,,1,0,1,17453,89.1042,C,U,1
+887,864,Sage, Miss. Dorothy Edith Dolly,female,,8,2,3,CA. 2343,69.55,S,U,0
+890,889,Johnston, Miss. Catherine Helen Carrie,female,,1,2,3,W./C. 6607,23.45,S,U,0
